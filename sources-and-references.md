@@ -1,4 +1,4 @@
-# Source & Resources
+# Sources & Additional Resources that helped build this talk
 
 ## Chaos Engineering
 - [Principles of Chaos](https://principlesofchaos.org/)
