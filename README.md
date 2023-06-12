@@ -1,5 +1,5 @@
 # A Chaotic Cause for Detection Engineering - Texas Cyber Summit
-☁️ My [Texas Cyber Summit](https://texascyber.com/briefings_schedule/detection-engineering/) slides covering how to apply the principles of Security Chaos Engineering to architect Resilience into your Detection Posture
+☁️ My [Texas Cyber Summit](https://texascyber.com/briefings_schedule/detection-engineering/) slides covering how to apply the principles of Security Chaos Engineering to architect Resilience into your Detection Posture.
 
 The talk covers various concepts and topics including;
 - 🤺 Traditional Threat Detection
